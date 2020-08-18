@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Modelos de desarrollo."
-date:   2020-08-15 
-categories: jekyll update
+date:   2020-08-15
 ---
 <body style="background-color:#FFE5C7;font-family: Century Schoolbook">
 <p align="justify">

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Proceso del Software."
-date:   2020-08-14 
-categories: jekyll update
+date:   2020-08-14
 ---
 <body style="background-color:#FFE5C7;font-family: Century Schoolbook">
 	<p align="justify"> El proceso de software es un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución de un software eficaz y eficiente que reuna los requisitos del cliente.

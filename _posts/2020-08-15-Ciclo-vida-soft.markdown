@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "El ciclo de vida del Software."
-date:   2020-08-15 
-categories: jekyll update
+date:   2020-08-15
 ---
 <body style="background-color:#FFE5C7;font-family: Century Schoolbook">
 <p align="justify">Conocer el ciclo de vida del software es vital para el desarrollo del mismo ya que cuando no se sigue un ciclo devida hay una alta probabilidad de error en el software además de no satisfacer los requisitos del usuario, es por eso que se crearon normas y estándares con el fin de gestionar, proporcionar un marco para el desarrollo, dando adquisición, suministro, y mantenimiento del software.</p>

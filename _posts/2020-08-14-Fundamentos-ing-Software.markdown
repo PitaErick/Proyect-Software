@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Fundamentos a la Ingeniería de Software"
-date:   2020-08-14 
-categories: jekyll update
+date:   2020-08-14
 ---
 <body style="background-color:#FFE5C7;font-family: Century Schoolbook">
 <h4><b>¿Cuál es la diferencia entre ingeniería de software y ciencias de la computación?<br></b></h4>
