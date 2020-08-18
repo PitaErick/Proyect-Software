@@ -1,0 +1,50 @@
+I"�<body style="background-color:#FFE5C7;font-family: Century Schoolbook">
+<h4><b>¿Cuál es la diferencia entre ingeniería de software y ciencias de la computación?<br /></b></h4>
+<p align="justify">Las ciencias de la computación estan enfocadas en la teoría y
+fundamentos, en cambio la ingeniería de software se enfoca en el sentido práctico del desarrollo y en la distribución de software.</p>
+<h4><b>¿Cuál es la diferencia entre ingeniería de software e ingeniería de sistemas?<br /></b></h4>
+<p align="justify">La ingeniería de sistemas se interesa por todos los aspectos del desarrollo de sistemas basados en computadoras, incluidos hardware, software e ingeniería de procesos. La ingeniería de software es parte de este proceso más general.</p>
+<br />
+<a name="tema1.1"></a>
+<br />
+<hr size="5" style="background-color: lightseagreen" />
+<br />
+<h1 align="center"><b>DEFINICIONES Y OBJETIVOS DE LA INGENIERIA DE SOFTWARE</b></h1>
+<h1 align="center"><b>¿Que es Software?<br /></b></h1>
+<p align="justify">Es un producto que diseñan y construyen los ingenieros de software. Esto abarca programas que se ejecutan dentro de una computadora de cualquier tamaño y arquitectura, documentos que comprenden formularios virtuales e impresos y datos que combinan números y texto y también incluyen representaciones de la información de audio, vídeo e imágenes.</p>
+<h1 align="left "><b>Objetivo<br /></b></h1>
+<p align="justify"> Planificar el desarrollo del software como un proceso metodológico de construcción y de gestión de proyectos soportado en estándares utilizados en la industria de la ingeniería de software para diseñar software de calidad.</p>
+<h4><b>Atributos de un buen software.<br /></b></h4>
+<center>
+	<img src="/Proyect-Software/img/tema1/figura2.png" /><br />
+	<h5><i><u>figura 1: Referencia de un buen Software con sus atributos.</u></i></h5>
+</center>
+<p align="justify">El buen software debe entregar al usuario la funcionalidad y el desempeño requeridos, y debe ser sustentable, confiable y utilizable.<br />Los atributos esenciales de un buen software son:</p>
+<ul>
+	<li><b style="color: red">Mantenimiento.- </b> <p align="justify">El software debe escribirse de tal forma que pueda evolucionar para satisfacer las necesidades cambiantes de los clientes </p></li>
+	<li><b style="color: red">Confiabilidad y seguridad.- </b><p align="justify"> La confiabilidad del software incluye una variedad de características que incluyen confiabilidad, seguridad y protección, el software confiable no debe causar daños físicos o económicos en caso de falla del sistema.</p></li>
+	<li><b style="color: red">Eficiencia.- </b><p align="justify">El software no debe desperdiciar los recursos del sistema, como la memoria y los ciclos del procesador. Por lo tanto, la eficiencia incluye la capacidad de respuesta, el tiempo de procesamiento, la utilización de la memoria, etc. </p></li>
+	<li>
+		<b style="color: red">Aceptabilidad.- </b><p align="justify">El software debe ser aceptable para el tipo de usuarios para el que está diseñado. Esto significa que debe ser comprensible, utilizable y compatible con otros sistemas que utilicen.</p>
+	</li>
+</ul>
+<a name="tema1.2"></a>
+<br />
+<hr size="5" style="background-color: lightseagreen" />
+<br />
+<h1 align="center"><b>LA EVOLUCION DEL SOFTWARE</b></h1>
+<b>Primeros años (1950 - 1960)</b><br />
+<ul>
+	<li>Lo mas importante era el hardware, el software solo era un complemento.</li>
+	<li>Se utilizaba el procesamiento por lotes.</li>
+	<li>Aún no existia ninguna documentación o metodología.</li>
+</ul>
+<b>Segunda Era (1960 - 1970)</b><br />
+<ul>
+	<li>El software se considera un producto que se distribuye para macro y mini computadoras.</li>
+	<li>Inicia la industria del software con la idea de desarrollar el mejor paquete y asi ganar dinero.</li>
+	<li>Se introdujo nuevos conceptos de iteracción hombre-maquina, gracias a la multiprogramacion y sistemas multiusuario.</li>
+	<li>El mantenimiento del software comenzó a ser algo mucho mas crítico.</li>
+</ul>
+</body>
+:ET

@@ -1,0 +1,27 @@
+I"�<body style="background-color:#FFE5C7;font-family: Century Schoolbook">
+<a name="tema2.1"></a>
+<br />
+<hr size="5" style="background-color: lightseagreen" />
+<br />
+<h1 align="center"><b>FACTORES DE CALIDAD DE SOFTWARE.<br /></b></h1>
+<p align="justify">
+	Un software de calidad tiene concordancia con:<br />
+	<ul>
+		<li>Los <b> requisitos funcionales</b> y de rendimiento <b>explícitamente </b>establecidos.</li>
+		<li>Los <b> estándares</b> de desarrollo explícitamente <b>documentados </b> establecidos.</li>
+	</ul>
+	La clasificación de los factores de calidad se centra en tres aspectos importantes de un producto sofware.
+	<ol>
+		<li>Características operativas.</li>
+		<li>Capacidad de soportar cambios.</li>
+		<li>Adaptabilidad de nuevos entornos.</li>
+	</ol>
+	<b>1.- Características operativas</b><br />
+	En esta característica señala que los factores para una calidad del software es que sean fiables, eficiente, corregible, tenga seguridad y de facil uso.<br />
+	<b>2.- Capacidad de soportar cambios.</b><br />
+	Un factor de calidad del software es que sean capaces de soportar cambios y para ello tiene que ser de facil mantenimiento, tiene que ser flexible y facilidad de prueba.<br />
+	<b>3.- Adaptabilidad de nuevos entornos</b><br />
+	Adaptabilidad de nuevos entornos como por ultima clasificación de los factores de calidad del softwate señala que un software de calidad debe ser portable, reusable y de facil interactuación con otro sistema.<br />
+</p>
+</body>
+:ET
